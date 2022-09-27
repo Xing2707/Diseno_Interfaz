@@ -1,0 +1,45 @@
+Planificacion de interfaces crapicas
+
+Diseño grafico
+CMS
+Interaccion: intercambion de persona entre maquina
+Jeraquia visual: tipo de organizacion de sitio web que mas importante
+Layouts: bloque genericos de pagina web
+Plantilla: web prediseñado
+Prototipo: planificacion de pagina web adapta cambio a lo largo de tiempo con cliente
+sketching: primer prototipo que haces
+wireframe: diseño de pagina web sin calidad (desheco), hasta que cliente nos dice su necesidad
+
+Lickloder y Clark (1962): 10 problemas mas comunes
+Hansen (1971):principios para el diseño de sistemas Interactivos
+
+- conocer a usuario
+- mininizar la memorizacion
+- en lugar de numero usar nombre(DNS)
+- observar comportacion de usuario para diseño de pagina web
+- facilidad diseño para evitar posible errores
+
+Diseño grafico
+    funciones:
+        -estetica
+        -publicitario
+        -comunicativa
+
+    elementos:
+        -conceptuales
+        -visuales
+        -de relacion
+        -practicos
+
+Prototipos=Maqueta o modelo de diseño
+
+    ventajas:
+        -Velocidad de desarrollo
+        -Involucra al cliente
+    
+    Tipos:
+        -SCKETCHING(papel) Dibujo del sitio web y relaciones entre pantallas jerarquia de contenido
+        -Wireframing(papel o digital) Dibujo de la pantalla disposicion fisica de los elementos al cliente
+        -prototipado(digital) Interaccion entre pantallas Pruebas de usuario
+
+
