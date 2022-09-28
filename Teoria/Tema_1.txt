@@ -43,3 +43,25 @@ Prototipos=Maqueta o modelo de diseño
         -prototipado(digital) Interaccion entre pantallas Pruebas de usuario
 
 
+Interfaz grafica 
+    areas:
+        -wireframes bloqus de contenido
+        -layouts genericos parte comunes
+
+paso 2 de prototipo 
+
+    wireframe esquema:
+        -prototipo visual de baja calidad
+        -b/n
+        -arquetectura de contenido (no el diseño)
+
+        programas:
+            -protoshare
+            -iplots
+            -pencil
+            -wireframe.cc -> en linea <- draw.io 
+            -mock flow
+            -lunacy
+
+
+
