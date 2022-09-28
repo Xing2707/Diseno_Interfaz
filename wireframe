@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T16:34:10.109Z" agent="5.0 (X11)" etag="0t_xEKOH-50gB9hPPwXC" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-28T16:36:04.269Z" agent="5.0 (X11)" etag="XnuSdU9_l2ChDVggeNVG" version="20.3.7" type="github">
   <diagram id="3VavpMm3gFFAr4VopQfJ" name="Page-1">
-    <mxGraphModel dx="3100" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1930" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,7 +127,7 @@
         <mxCell id="IsmaJXbHlJ7ga7luTQda-42" value="SMS Telefono" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="IsmaJXbHlJ7ga7luTQda-40" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IsmaJXbHlJ7ga7luTQda-44" value="Iintentificacion / SMS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IsmaJXbHlJ7ga7luTQda-44" value="Intentificacion / SMS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="160" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IsmaJXbHlJ7ga7luTQda-47" value="Piel" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
