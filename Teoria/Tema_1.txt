@@ -63,5 +63,78 @@ paso 2 de prototipo
             -mock flow
             -lunacy
 
+-----------------------------------------------------------------------
+
+CMS = Cantent Management System (Gesto de contenido)
+
+Lenguaje PHP/HTML 
+Bases de datos/ MySQL
+
+Plantillas
+
+Nombre de gestor de contenido
+    1/ wordPress  - mas usado
+    2/ joomla!  - mas usado
+    3/ wix
+    4/ Drupal
+    5/ Manage - Prestashop - shopify  son comercial, para general tiendas online
+    7/ Tipo 3
+    8/ Dreamweaver
+    9/ Craft
+    10/ SquareSpace
+    11/ Webflow
+    12/ Brix
 
 
+wordPress
+    ventajas:
+        - censillo de instalar
+        - censillo de preparar
+        - interfaz incluitivo
+        - fluencuente actualiazacion de seguridad
+
+    encoventiende:
+        - rediminedo relimidado para desarrollo de pagina grande
+
+joomla: esta indicado para desarrollo web a la persona que no tiene conocimiento de diseño
+
+Drupal: es libre.
+
+Tipo 3: requiere cierdo conocimiendo de desarrollo, puede desarrolla diseña por mi manera
+
+Dreamweaver: es un edito html, hay que programa con lenguaje html, se deja probar 7 dias
+
+
+SEO = Search Engine Optimization (Posicionamiento organico (diseñador usa su estrategia para posicionar su pagina en principal de busqueda sin hace pago de nada))
+
+SEM = Search Engine Marketing (Posicionamiento de Marketing (diseñador compra posicion de busqueda para que su pagina se posiciona en principal))
+
+Posicionamiento en motores de busqueda
+
+CSS = Cascading Style Sheets (Hoja de estilo en cascada)
+
+Planteamiento del diseño de un sitio web
+
+    Usabilidad -> facil, util, intuitivo, agradable, bonido
+    Accesibilidad -> facilita persona con discapacidad
+    Jerarquia visual ->  De mas importante a menos importante.
+
+
+Areas:
+    1.Redaccion -> objeto final
+    2.Produccion:
+        -cliente
+        -usuario
+        -presupuesto
+        -plan de tabajo
+
+    3.Tecnica -> programacion : HTML, CSS, Bases de datos
+    4.Artistica -> estetica final, seña de identidad.
+
+    Fase de desarrollo de un sitio Web
+        1/ Sketch (papel)
+        2/ Wireframe (digital)
+        son aquitetura de la informacion
+
+        3/ Mockup - Diseño visual: color, letra, imagen que va usar en la fase de diseño de pagina web(para alguna diseñador de pagina web es importante, para los otros diseñador no es importante.). 
+        4/ Prototipo - Funcional
