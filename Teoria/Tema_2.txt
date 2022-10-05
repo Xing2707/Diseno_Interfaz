@@ -1,0 +1,66 @@
+ELEMENTOS PARA EL DISEÑO WEB
+
+Interfez web:
+    -zona de navegacion
+        .Donde estoy?
+        .Indice global
+    -zona de contenido o interaccion 
+        .Texto, imagenes, video
+
+Maquetacion web(prototipo):
+    -elementos
+    -paginas
+    -ditribucion de los elementos en las paginas
+
+Elementos de una pagina web:
+    -cabecera o header
+    -sistemas de navegacion
+    -pie o footer
+    -cuerpo 
+
+Mapa de navegacion - esquema de la estructura del sitio web secciones, paginas, indice de contenidos
+
+Usabilidad(Nielsen): 
+    -Donde estoy?
+    -Donde he estado?
+    -DOnde puedo ir?
+
+El color:
+    -Luz (luz actual):
+        rojo, naranja(rojo + amarillo), amarillo, verder(amarillo - azul), azul,añil, violeta(azul - rojo)
+        Primario(rojo - azul - amarillo )
+        Segundario(naranja - verde - violeta)
+    -RGB (Luz en pantalla):
+        Red - Green - Blue
+        Primario(rojo - verder - azul | colores adicionales)
+        Segundario(amario = rojo + verde, cyan = azul + verde, magenta = rojo + zaul)
+    -CMYK (Tinta impresora):
+        Cyan - Magenta - Yellow - Black
+
+
+Elementos de Diseño:
+    -Elemento de Conceptos
+        .punto
+        .linea
+        .plano
+        .volumen
+
+    -Elemento Visuales:
+        .forma (bidimesional, tridimesional)
+        .medida (tamaño)
+        .color
+        .textura (pueder ser: plana, rugosa, suave)
+
+    -Elemento de Relacion:
+        .Direccion (linea recta con de sentidos <-->)
+        .Posicion (define posicion exacta del elementos)
+        .Espacio (plano, profundidad)
+        .Gravedad (pesado, ligero, estable)
+
+    -Elemento Practico (centra en el contenido de diseño):
+        .Representacion (realistas)
+        .Significado (fin que trasmite el diseño, -> dar significado para que veas a la derecha)
+        .Funcion (proposito de diseño)
+
+
+
