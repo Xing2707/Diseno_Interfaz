@@ -1,0 +1,36 @@
+Guias de estilo y lenguaje de marcas
+    Guia de estilo: Diseña uiforme para sitio Web(Diseñadores/Programdores de interfaz Web)
+
+    1.Tipografia-> Letra(fuente):
+        .No abusar de subrayado
+        .Mejor texto oscuro/fondo claro
+        recomentacion:
+            .no se recomiento usar mas de 2 tipografica
+            .usar fuentes claras
+            .escoger un buen contraste entre fuente y fonto
+            .no ultilizar linea de texto demasiado larga
+            .ultilizar interlineado 1.5 adicion al tamaño de Letra
+
+    2.Colores:
+        .usar un color asociado a cada seccion que sea un color coherente, armonia
+        .Psicologia de color
+
+    3.Iconografia(Icono):
+        .tener accion asociada a su Funcion
+    
+----------------------------------------------------------------------------------------------
+    Actividad:
+        Escoge y diseña los siguientes apartados para tu sitio web
+        tipo de empresa tipo de usuario que quiero atraer , objetos
+        1.Estilo y tamaño de las fotos y logos
+        2.Tipografia que se ultiliza en cada seccion (titulos,texto,lista...)
+        3.Inconos
+
+-----------------------------------------------------------------------------------------------
+
+1. Quiero escoger un estilo de logo y fotos simplificada y de modas con un tamaño no tan grande, porque es una plataforma de videos.
+volunteer-log.pagina
+2. Escogo un color azul para el titulo por que se representa amplitud,paz,confianza para los usuario con el tamaño no demasiado grande y de formato simple,
+    escogo negro para los textos para que los usuario puede visualizar bien los contenido con tamaño que puede visualizar bien claro y de formato simple,
+    escogo color llamativo para la lista, porque puede ser hiperpinculo hacia otras paginas y queiro llama antecion a los usuarios
+3.Escogeria icono llamativo con un tamaño que puede visualizar perfectamento y tiene funcion de que el usuario cuanto vea ya saber donde puede estar,se posiciona a lado de texto((icone de configuracionñ.png)Configuracion). 
