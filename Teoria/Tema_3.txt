@@ -27,10 +27,3 @@ Guias de estilo y lenguaje de marcas
         3.Inconos
 
 -----------------------------------------------------------------------------------------------
-
-1. Quiero escoger un estilo de logo y fotos simplificada y de modas con un tamaño no tan grande, porque es una plataforma de videos.
-volunteer-log.pagina
-2. Escogo un color azul para el titulo por que se representa amplitud,paz,confianza para los usuario con el tamaño no demasiado grande y de formato simple,
-    escogo negro para los textos para que los usuario puede visualizar bien los contenido con tamaño que puede visualizar bien claro y de formato simple,
-    escogo color llamativo para la lista, porque puede ser hiperpinculo hacia otras paginas y queiro llama antecion a los usuarios
-3.Escogeria icono llamativo con un tamaño que puede visualizar perfectamento y tiene funcion de que el usuario cuanto vea ya saber donde puede estar,se posiciona a lado de texto((icone de configuracionñ.png)Configuracion). 
