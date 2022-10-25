@@ -1,0 +1,30 @@
+Hojas de estilo Css Cascadin Style Sheets
+    Pagiana web:
+        -Contenido:HTML
+        -Aparienca:CSS(CSS 3)
+    Motor del Navegador : contenido formateado
+    CSS1,CSS2,CSS3(Todos selectores y pseudoclase algunas propiedades):
+        -Firefox _ Gecko
+        -Chrome _ Chromuim
+        -Sajan _ Webkit
+        -Opera _ Presto
+    CSS1,CSS2:
+        -Explorer _ ? _
+Hoja de estilo externas -> fichero on codigo CSS etiqueta <link>
+
+Medios de visualizacion:
+    -all: todos
+    -print: impresora (mas usado)
+    -braille: impresora 
+    -embosed: impresora
+    -handheld: movil
+    -projection: proyeccion
+    -screen: pantalla ordenador (mas usado)
+    -speech: para persona con capacidad(Audio _ ciegos)
+    -tv: pantalla television
+
+@media: medio destino
+    -impresion
+    -pantalla
+
+@import: nuevas reglas de un fichero CSS

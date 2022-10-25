@@ -1,0 +1,9 @@
+Fichero HTML   con cabecera 
+    cuerpo:
+        2.elementos tipo parrafo <p>
+        1.imagen <img>
+CSS
+    elemento @medioa
+        parrafos:tamaño 20px en cualquier dispositivo
+        imange: centradas solo cuando se muestra en pantalla
+        parrafo e imagen: a la izquierda en todos los dispositivos solvo el caso anterior
