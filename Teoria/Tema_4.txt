@@ -28,3 +28,27 @@ Medios de visualizacion:
     -pantalla
 
 @import: nuevas reglas de un fichero CSS
+
+Reglas:
+    1. link rel="stylesheet" type="text/css" media="screen" href="estilocss.css"/>
+    2. @import url("estilocss.css");
+    3. @media @media print{ estilo para impresora}
+
+
+animaciones:
+    animation-name: nombre_fotograma_clave;
+    animation-duration: 5s;
+    animation_iteration-count:10;
+
+    
+    @keyframes nombre_fotograma_clave{
+        0%{
+            left:100px;
+        }40{
+            left:150px;
+        }60%{
+            left:75px;
+        }100%{
+            left:100px;
+        }
+    }
