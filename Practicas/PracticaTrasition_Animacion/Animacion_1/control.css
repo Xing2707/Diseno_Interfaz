@@ -1,1 +1,25 @@
-div{width:20%; height: 200px; background-image:url("./Perro.jpg"); background-size: 440%; background-repeat: no-repeat; border: 1px solid black; margin: auto};
+div{
+    width: 0%;
+    height:600px;
+    background-image:url("./Perro.jpg");
+    background-repeat: no-repeat;
+    background-size: 500%;
+    margin: 0 auto;
+    animation-name: perro;
+    animation-duration: 10s;
+    animation-direction: normal;
+    animation-iteration-count: infinite;
+    animation-delay: 0.5s;
+} 
+
+@keyframes perro {
+    0%{
+        width: 0%;
+    }10%{
+        width: 20%;
+        background-position-x:0%;
+    }100%{
+        width: 20%;
+        background-position-x:100%;
+    }
+}
