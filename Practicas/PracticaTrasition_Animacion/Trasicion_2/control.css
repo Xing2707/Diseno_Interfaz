@@ -1,0 +1,21 @@
+#caja{
+    width: 90%;
+    height: 500px;
+    margin: auto;
+    text-align: center;
+}
+#parrafo1{
+    width: 0%;
+    height: 0%;
+}
+#caja:hover>#parrafo1{
+    background-color: antiquewhite;
+    width: 80%;
+    height: 90%;
+    transition-property: all;
+    transition-duration: 10s;
+    transition-timing-function: step-end;
+}
+
+
+
