@@ -1,21 +1,38 @@
-#caja{
-    width: 90%;
-    height: 500px;
+#fondo{
+    width: 10%;
+    height: 200px;
     margin: auto;
-    text-align: center;
-}
-#parrafo1{
-    width: 0%;
-    height: 0%;
-}
-#caja:hover>#parrafo1{
-    background-color: antiquewhite;
-    width: 80%;
-    height: 90%;
-    transition-property: all;
-    transition-duration: 10s;
-    transition-timing-function: step-end;
+    margin-top: 10%;
 }
 
+#caja{
+    position: relative;
+    width: 120px;
+    height: 120px;
+    background-color: aqua;
+    border-radius: 100%;
+    margin: auto;
+    margin-top: 20%;
+}
+img{
+    position: relative;
+    width: 60%;
+    height: 60%;
+    top:15%;
+    left:20%;
+}
 
+#fondo:hover>#caja{
+    background-color: red;
+    transition-property: background-color;
+    transition-duration: 3s;
+    transition-timing-function:ease-out; 
+}
 
+#fondo:hover>#caja>a>img{
+    width: 120px;
+    height: 120px;
+    top:0%;
+    left: 0%;
+    transition: width 5s, height 5s,top 2s, left 2s;
+}

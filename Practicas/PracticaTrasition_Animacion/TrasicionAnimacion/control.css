@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#caja1{
+    width: 0%;
+    height: 0%;
+    margin: auto;
+    border: 2px solid white;
+    position: relative;
+    top:15%;
+}
+.cajas{
+    width:0%;
+    height:0%;
+    margin: auto;
+    border: 2px solid transparent;
+}
+
+body:hover>#caja1{
+    width: 99%;
+    height: 99%;
+    top:0%;
+    transition: width 5s,height 5s,top 5s;
+    transition-timing-function: ease-out;
+}
+
+body:hover .cajas{
+    width: 98.5%;
+    height: 98.5%;
+    border: 2px solid white;
+    margin-top:3px;
+    transition: width 5s,height 5s,border 5s,margin 5s;
+    transition-timing-function: ease-out;
+}
+
+body:hover #caja2{
+    transition-delay: 1s;
+}
+body:hover #caja3{
+    transition-delay: 2s;
+}
+body:hover #caja4{
+    transition-delay: 3s;
+}
+body:hover #caja5{
+    transition-delay: 4s;
+}
+body:hover #caja6{
+    transition-delay: 5s;
+}
+body:hover #caja7{
+    transition-delay: 6s;
+}
+body:hover #caja8{
+    transition-delay: 7s;
+}
+body:hover #caja9{
+    transition-delay: 8s;
+}
+body:hover #caja10{
+    transition-delay: 9s;
+}
+
+body:hover{
+    animation-name: color;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+@keyframes color {
+    0%{
+        background-color: red;
+    }15%{
+        background-color: orange;
+    }30%{
+        background-color: yellow;
+    }45%{
+        background-color: green;
+    }60%{
+        background-color: blue;
+    }75%{
+        background-color: indigo;
+    }90%{
+        background-color: violet;
+    }100%{
+        background-color: black;
+    }
+} 
