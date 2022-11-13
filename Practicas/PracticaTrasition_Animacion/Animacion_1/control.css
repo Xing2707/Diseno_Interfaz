@@ -1,25 +1,38 @@
 div{
-    width: 0%;
-    height:600px;
-    background-image:url("../IMG/cara1.jpg");
+    width: 40%;
+    height:700px;
     background-repeat: no-repeat;
-    background-size: 500%;
+    background-image: url(../IMG/cara1.jpg);
+    background-size: 100%;
     margin: 0 auto;
-    animation-name: perro;
-    animation-duration: 10s;
+    animation-name: caras;
+    animation-duration: 20s;
     animation-direction: normal;
     animation-iteration-count: infinite;
-    animation-delay: 0.5s;
+    animation-delay: 1s;
+
 } 
 
-@keyframes perro {
+
+ @keyframes caras {
     0%{
-        width: 0%;
-    }10%{
-        width: 20%;
-        background-position-x:0%;
-    }100%{
-        width: 20%;
-        background-position-x:100%;
+        background-image:url("../IMG/cara1.jpg");
+        transform: rotateY(0deg);
+    }
+    20%{background-image:url("../IMG/cara2.jpg");
+        transform: rotateY(180deg);
+    }
+    40%{background-image:url("../IMG/cara3.jpg");
+        transform: rotateY(360deg);
+    }
+    60%{background-image:url("../IMG/cara4.jpg");
+        transform: rotateY(540deg);
+    }
+    80%{background-image:url("../IMG/cara5.jpg");
+        transform: rotateY(720deg);    
+    }
+    100%{
+        background-image:url("../IMG/cara6.jpg");
+        transform: rotateY(900deg);
     }
 }
