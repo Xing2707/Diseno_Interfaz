@@ -1,6 +1,7 @@
+html,body{height: 98%;}
 div{
     width: 40%;
-    height:700px;
+    height:100%;
     background-repeat: no-repeat;
     background-image: url(../IMG/cara1.jpg);
     background-size: 100%;

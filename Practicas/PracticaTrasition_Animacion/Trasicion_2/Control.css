@@ -1,13 +1,13 @@
+html,body{height: 98%;}
 #fondo{
     width: 70%;
-    height: 800px;
+    height: 95%;
     text-align: center;
     margin: auto;
 }
 
 #fondo>p{
-    display: inline;
-    font-size: 1900%;
+    font-size: 1000%;
 }
 
 #caja1{
