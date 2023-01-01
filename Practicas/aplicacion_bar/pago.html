@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pago</title>
+</head>
+<body>
+    <form action="index.html" method="post">
+        <label for="numBank">Cuenta: <input type="text" name="cuenta" size="30" minlength="20" maxlength="20" pattern="[0-9]{20}" required placeholder="Introduce cuenta"></label><br/><br/>
+        <label for="cvv">cvv: <input type="text" name="cvv" size="5" maxlength="3" minlength="3" required pattern="[0-9]{3}"></label>
+        <label for="enviar"><input type="submit" name="enviar" value="Enviar"></label>
+    </form>
+</body>
+</html>
