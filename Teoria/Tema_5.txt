@@ -60,3 +60,210 @@ FORMATO DE VIDEO
 	-RA (AUDIO)
 	-RV(VIDEO)
 	-RA+RV 
+
+--------------------------------------------------------------------------------------
+	ETIQUETA HTML5
+	AUDIO
+		SOUCE : RUTA / SRC=URL
+	AUTOPLAY
+	PRELOAD
+		-NONE
+		-METADATO
+		-AUTO
+	CONTROL (BOTONES)
+	LOOP (REPRODUCE EN BUCLE)
+	MUTED (SILENCIAR)
+	MEDIAGROUP(TIPO): SINCRUNIZA VIDEO + AUDIO
+	NAV
+		-INTERNET EXPLORE: DESDE 90
+		-MOZILLA FIREFOX: DESDE 3.5
+		-GOOGLE CHROME: DESDE 40
+		-SAFARI: DESDE 4.0
+		-TRACK(SUBTITULOS)
+	FORMATOS	
+		-MP3 -> LOS 4
+		-OGG -> CHROME,MOZILLA
+		-WAV-> CHROME,MOZILLA,SAFARI
+
+	MIRO = CONVERSOR DE FORMATOS DE VIDEO
+POSTE (IMAGEN A MOSTRAR)
+MUTED (QUITAR VOLUMEN)
+MEDIAGROUP (GRUPO DE REPRODUCCION)
+
+TRACK
+	-SRC: RUTA FICHERO
+	-KIND: TIPO SUBTITULO
+	-SRCLANG: IDIOMA
+	-LABEL: TEXTO DE IDIOMA
+KIND
+	-SUBTITLES
+	-METADATA:DATOS TECNICOS
+	-CHAPTES:CAPITULOS
+	-CAPTIONS: TRANSCRIPCION DE AUDIO (SORDOS)
+	-DESCRIPTIONS:(CIEGAS)
+
+Mobile Fist
+	Diseño para movil -> Se adapta a ordenador
+		-Contenido necesario
+		-Tiempo de carga cortos
+		-Enlaces Visibles
+		Packlinks(enlaces externos) -> No 
+Diseño Responsive
+	Diseño para ordenador -> Se adapta al movil
+		-Jornada laboral -> PC
+		-Empiezas B2B
+		-formularis grandes -> informacion
+		-SEO
+		-mucho contenido infromativo
+
+px = pixel pantallas tamaño fijo
+pt = puntos impresion 1'=72 puntos
+em = medida escalable
+% = escalable
+1em = 100%
+vh = altura de pantalla
+vw = ancho de pantalla
+rem = tamaño de etiqueta raiz html
+
+Breakpoints -> Puntos de interrupcion
+320 - 480 px -> disipositivo movil
+481 - 768 px -> ipad y tabletas
+769 - 1024 px -> portatiles
+1025 - 1200 px -> monitor
+1201 -> 1201+ px -> television, pantalla x-large
+
+Emuladores
+	-Android
+	-IOS
+
+Diseño WEB Responsive
+	-Usabilidad conciso,concreto
+	-Tiempo de carga 
+		-contenido pesado
+		-formularios
+	-Layout
+		-PC: rejilla 12-16 columnas
+		-Movil: 3 columnas
+	Imagenes
+		-Vectorial(svg)
+	Manejo
+		-Click(boton) -> ordenador
+		-Tap(dedos) -> movil
+	botones y enlaces + grandes;
+	-No escroll horizontal
+	-orientacion
+		-landscape(PC) -> horizontal
+		-Portrait-vertical(Movil)
+	-Media Query @Media
+		-screen
+		-print
+		-speach
+		-and
+		-or
+		-not
+	-Breakpoints
+	width:
+		-max-width
+		-min-width
+	heigth:
+		-max-heigth
+		-min-heigth
+	-"viewport"(head)
+	-orientacion
+		-portrait(vertical)
+		-landscape(horizontal)
+	relacion-aspecto:
+		-aspect-ratio(relacion width-height)
+	hover
+		-mouse
+		-touchscreen
+	prefers-reduced-motion -> desabilita animaciones
+	prefers-contrast -> color,contraste
+	resolution 
+	altenativa uso de media query:
+		-flexbox
+		-grid
+	Media query -css3
+		-navegadores:
+			-firefox-version 3.5 y posterior
+			-google chrome-todas
+			-safari v.3 y post
+	USUABILIDAD Y ACCECIBILIDAD
+	CONTENIDO WEB
+		-MANEJABLE,FACIL,INTUITIVO,USABLE,AGRADABLE,VISUAL
+	JAKOB MIELSEN SI NO LO HACES FACIL, LOS USUARIOS SE MARCHARAN DE TU WEB
+ACCESIBILIDAD DISCAPACIDAD, IDIOMA
+
+NORMAS
+	-ISO/IEC 9126: CALIDAD DEL SW
+	-ISO/DIS 9241-11 MIDE RESULTADOS/SATISFACCION DEL USUARIO
+	-ISO/B407 GUIA DE CALIDAD DISEÑO CENTRADO EN USUARIO (DCU)
+	-ISO/9214/1S1 EGONOMIA HOMBRE-SISTEMA
+NORMA ESPAÑOL
+	-UNE 139203 2004 -ACCESIBILIDAD/DISCAPACIDAD PAUTAS WCAGIO
+	-UNE 139803 - PAUTAS WCAG 2.0
+USUARIO
+	-CAPACIDADES PERCEPTIVAS/COGNITVOS
+	-CULTURALES -LENGUAJE,PROTOCOLOS
+	-DISCAPACIDAD
+		-AUDITIVO:SUBTITULO,ETIQUETAS,CONECTAS
+		-VISUAL:BARRADOR,ALTA CONTRASTE, PRINT
+		-MOTORA: COMANDOS DE VOZM RANTO/TECLADO ADAPTADO
+	-TECNOLOGIAS: CONEXION,MEMORIA,TAMAÑO PANTALLA
+TIPO USUARIO
+	-USUARIO ANONIMO
+	-USUARIO REGISTRADO
+	-USUARIO BETATESTER(ANTE DE IMPLANTACION) ->"PROFESIONAL"
+NAVEGACION WEB
+	-INFORMACION ACCESIBLE: FACIL DE ENCONTRAR
+	-CONSISTENTE: FACIL DE USAR SIN INSTRUCCIONES
+	-PERSISTENCIA: MISMA ESTRUCTURA Y DISEÑO
+	-SENCILLEZ DE NAVEGACION: SABER DONDE ESTOY
+HERRAMIENTA PARA ENVALUAR LA ACCESIBILIDAD
+	-VALIDADOR HTML DE W3C
+	-VALIDADOR CSS DE W3C
+	-WAVE: APLICACION ONLINE, VALIDA EL SITIO WEB COMPLETO.
+	-METODO POR INSPECCION(EVALUACION EURISTICA):PROFESIONAL
+	-TEST DE USUARIOS
+		-BETA TESTER "PROFESIONAL"
+		-RESTO
+
+		-Opera v.9.5 y post
+			-Internet Explorer v.9
+
+Contenido interactivo -> involucra al usuario de manera activa
+herramientas 
+	- version gratuido
+	- version pago
+QZZR -> obtimizado para moviles
+	- cuestionarios
+	- encuestas
+	- listas a medida
+	- imagenes
+	- video audio
+cincapa
+	- portales de video
+	- podcasts
+	- diapositivas
+adobe spark
+	- story telling interactivo
+	- videos(spark video)
+	- imagenes (spark post)
+genially
+	- presentaciones(canva,prezi)
+	- infografias
+
+mapme -> mapa interactivos -> mapas obtimizado para moviles
+	-fotografia por satelite
+	-mapa viales
+	-mapa fisicas
+easelly -> infografias , presentaciones
+animoto -> online gratuido -> crea video animado hasta 30s.
+kahot -> educacion
+	-juegos
+	-cuestionario
+spline -> objeto en 3D
+powtoon -> presentacio con animaciones
+
+inklewriter narraciones interactiva no lineales
+	
